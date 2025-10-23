@@ -26,7 +26,7 @@ This is my solution to the Chat-App-Main-Component on Frontend Mentor. Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/nathan5792/Chat-App-Design.git
 - Live Site URL: https://nathan5792.github.io/Chat-App-Design/
 
 ## My process
